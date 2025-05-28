@@ -1,0 +1,9 @@
+# Core Django + DRF dependencies
+Django>=5.2
+djangorestframework
+# JWT authentication
+djangorestframework-simplejwt
+# Postgres driver
+psycopg2-binary
+# CORS headers support
+django-cors-headers
